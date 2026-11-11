@@ -1,0 +1,8 @@
+This license applies to the included splat asset files in public/splat.
+
+Title: point_cloud
+Author: AL MAIMUN AS SAMEE (https://superspl.at/user/assamee123)
+Source: https://superspl.at/scene/5a963a7e
+License: CC Attribution (Creative Commons Attribution)
+License URL: http://creativecommons.org/licenses/by/4.0/
+Requirements: Author must be credited. Commercial use is allowed.
